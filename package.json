@@ -1,0 +1,19 @@
+{
+  "name": "javascriptingdemo",
+  "version": "1.0.0",
+  "description": "This package is created to practice on javascript.",
+  "main": "introduction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meRohitYdv/Javascripting-Demo.git"
+  },
+  "author": "Rohit Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meRohitYdv/Javascripting-Demo/issues"
+  },
+  "homepage": "https://github.com/meRohitYdv/Javascripting-Demo#readme"
+}
